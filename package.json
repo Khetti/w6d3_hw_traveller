@@ -11,5 +11,14 @@
   "devDependencies": {
     "mocha": "^5.2.0"
   },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khetti/w6d3_hw_traveller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Khetti/w6d3_hw_traveller/issues"
+  },
+  "homepage": "https://github.com/Khetti/w6d3_hw_traveller#readme",
   "description": ""
 }
